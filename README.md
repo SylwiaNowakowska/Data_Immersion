@@ -1,2 +1,2 @@
 # Data_Immersion
-Code accompanying data-immersion.com blog articles.
+Code accompanying [Data Immersion blog articles](https://data-immersion.com/blog).
